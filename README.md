@@ -162,6 +162,9 @@ Ensures high adoption among gig workers with limited financial literacy.
 ---
 
 ## 🏗️ Predictive Livelihood Protection Architecture  
+<p align="center">
+  <img src="architecture.png" width="800"/>
+</p>
 Gig Worker Mobile App (React)
 ↓
 Policy & Premium Engine (Spring Boot)
