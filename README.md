@@ -158,10 +158,6 @@ GigGuard AI thus becomes a **proactive livelihood advisor**, not just a passive 
 - intuitive earnings protection dashboard  
 
 Ensures high adoption among gig workers with limited financial literacy.  
-
----
-
-## 🏗️ Predictive Livelihood Protection Architecture  
 Gig Worker Mobile App (React)
 ↓
 Policy & Premium Engine (Spring Boot)
@@ -224,3 +220,6 @@ GigGuard AI can scale into:
 
 🎯 **Long-term Vision:**  
 To establish **India’s first AI-driven gig livelihood resilience infrastructure.**
+---
+
+## 🏗️ Predictive Livelihood Protection Architecture  
