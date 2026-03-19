@@ -162,41 +162,59 @@ Ensures high adoption among gig workers with limited financial literacy.
 ---
 
 ## 🏗️ Predictive Livelihood Protection Architecture  
+
 <p align="center">
-  <img src="architecture.png" width="800"/>
+  <img src="architecture.png" width="700"/>
 </p>
 
-##🏗️ Prototype Technology Architecture
----
-Gig Worker Mobile Interface — React
-Backend Policy Engine — Spring Boot
-AI Risk Prediction Service — Python ML Models
-Geo-Risk Processing Layer — Spatial Data Logic
-External Data APIs — Weather, AQI, Traffic
-Parametric Trigger Engine — Event Detection Logic
-Automated Claim Processor — Rule-Based Decision System
-Instant Payout Simulation — UPI / Razorpay Sandbox
-Analytics Dashboards — Rider & Insurer Insights
+Gig Worker Mobile App (React)  
+↓  
+Policy & Premium Engine (Spring Boot)  
+↓  
+AI Risk Intelligence Service (Python ML)  
+↓  
+Hyper-Local Geo-Risk Processing  
+↓  
+External APIs (Weather | AQI | Traffic)  
+↓  
+Parametric Disruption Trigger Engine  
+↓  
+Automated Claim Decision System  
+↓  
+Instant Payout Gateway (UPI / Razorpay Sandbox)  
+↓  
+Dual Analytics Dashboard  
 
 ---
-Gig Worker Mobile App (React)
-↓
-Policy & Premium Engine (Spring Boot)
-↓
-AI Risk Intelligence Service (Python ML)
-↓
-Hyper-Local Geo-Risk Processing
-↓
-External APIs (Weather | AQI | Traffic)
-↓
-Parametric Disruption Trigger Engine
-↓
-Automated Claim Decision System
-↓
-Instant Payout Gateway (UPI / Razorpay Sandbox)
-↓
-Dual Analytics Dashboard
 
+## 🏗️ Prototype Technology Architecture  
+
+- **Gig Worker Mobile Interface — React**  
+  Enables rider onboarding, policy activation, risk alerts, and earnings protection dashboard.  
+
+- **Backend Policy Engine — Spring Boot**  
+  Handles authentication, weekly premium computation, policy lifecycle management, and claim orchestration.  
+
+- **AI Risk Prediction Service — Python ML Models**  
+  Uses machine learning models to estimate hyper-local disruption probability and behavioural reliability scores.  
+
+- **Geo-Risk Processing Layer — Spatial Data Logic**  
+  Processes micro-zone environmental signals and historical disruption patterns for risk grid formation.  
+
+- **External Data APIs — Weather, AQI, Traffic**  
+  Integrates real-time environmental intelligence to power predictive risk analytics.  
+
+- **Parametric Trigger Engine — Event Detection Logic**  
+  Automatically detects disruption thresholds such as heavy rainfall clusters or pollution spikes.  
+
+- **Automated Claim Processor — Rule-Based Decision System**  
+  Executes zero-touch claim approval logic based on verified disruption triggers.  
+
+- **Instant Payout Simulation — UPI / Razorpay Sandbox**  
+  Simulates rapid compensation credit aligned with surge-hour income sensitivity.  
+
+- **Analytics Dashboards — Rider & Insurer Insights**  
+  Provides predictive livelihood insights, geo-risk visualization, and actuarial performance monitoring.  
 
 ---
 
@@ -242,6 +260,6 @@ GigGuard AI can scale into:
 🎯 **Long-term Vision:**  
 To establish **India’s first AI-driven gig livelihood resilience infrastructure.**
 
-Youtube link : https://www.youtube.com/watch?v=Jgi2ke6lc5A&t=2s
+Youtube Link : https://www.youtube.com/watch?v=Jgi2ke6lc5A&t=2s
 
 By Team The Innovators
