@@ -217,61 +217,48 @@ Dual Analytics Dashboard
   Provides predictive livelihood insights, geo-risk visualization, and actuarial performance monitoring.  
 
 ---
----
-
 ## 🛡️ Adversarial Defense & Anti-Spoofing Strategy  
 
-GigGuard AI is designed to remain resilient against coordinated fraud attacks such as GPS spoofing rings, synthetic disruption claims, and organized payout exploitation attempts.  
+GigGuard AI is engineered to withstand coordinated adversarial attacks such as GPS spoofing syndicates, synthetic disruption claims, and liquidity-draining payout exploitation attempts.  
+To maintain platform sustainability and rider trust, the system deploys a **multi-layer AI fraud-resilience framework** combining behavioural intelligence, geo-spatial anomaly detection, and environmental signal correlation.
 
-The platform adopts a **multi-layer adversarial defense architecture** that combines behavioural analytics, geo-spatial anomaly detection, and risk intelligence correlation mechanisms to distinguish genuine stranded riders from malicious actors.
+### 🔍 Differentiating Genuine Distress from Location Spoofing  
 
-### 📍 Multi-Signal Location Authenticity Validation  
+Rather than relying solely on device GPS coordinates, GigGuard AI evaluates contextual authenticity signals including:
 
-Instead of relying solely on device GPS signals, GigGuard AI performs cross-verification using:
+- telecom tower triangulation stability vs reported GPS drift  
+- historical delivery route continuity and real-time deviation probability  
+- delivery task density validation within claimed disruption zones  
+- motion sensor behaviour patterns such as abnormal static positioning or unrealistic velocity variance  
 
-- network tower triangulation consistency checks  
-- historical route deviation patterns  
-- delivery task completion density mapping  
-- motion sensor activity correlation (speed variance & stop duration logic)  
+Genuinely stranded riders typically exhibit **progressive activity disruption patterns**, whereas spoofing actors show abrupt location locking inconsistencies.
 
-This prevents attackers from simulating static flood-zone presence through spoofed GPS overlays.
+### 📊 Multi-Dimensional Data Signals for Fraud Ring Detection  
 
-### 🧠 Behavioural Trust Index & Claim Credibility Modelling  
+To detect coordinated fraud clusters, the platform continuously analyses:
 
-Each rider is assigned a dynamic **Behavioural Reliability Score** derived from:
+- sudden spike patterns in disruption claims within micro-risk grids  
+- synchronized claim timestamps across multiple rider accounts  
+- device identity fingerprint repetition or shared network signatures  
+- mismatch between environmental severity signals and reported distress density  
 
-- long-term delivery activity consistency  
-- anomaly detection in claim frequency bursts  
-- surge-hour participation patterns  
-- device identity continuity signals  
+These signals enable a **fraud probability scoring engine** that triggers payout throttling and secondary validation workflows.
 
-Sudden coordinated claim spikes from low-credibility clusters trigger automated risk escalation protocols.
+### ⚖️ Fairness-Aware Claim Verification Experience  
 
-### 🌐 Fraud Ring Pattern Detection Engine  
+GigGuard AI ensures that anti-fraud safeguards do not unfairly penalize honest gig workers.
 
-GigGuard AI monitors **cluster-level disruption claim density** across geo-risk grids.  
-If multiple riders simultaneously report identical disruption signatures with inconsistent environmental signals, the system activates:
+- first anomaly → soft verification flag with provisional claim buffering  
+- moderate risk → alternate signal validation using activity logs & network stability checks  
+- high-confidence fraud pattern → automated payout block with behavioural risk tagging  
 
-- fraud ring probability scoring  
-- payout throttling safeguards  
-- secondary environmental validation using external data feeds  
+During genuine severe weather network outages, the platform provides a **grace-window confirmation mechanism**, ensuring legitimate riders retain protection coverage.
 
-This enables detection of organized payout draining attempts.
+### 🔄 Continuous Adaptive Learning  
 
-### ⚖️ Fairness-Aware Risk Flagging Logic  
+Confirmed spoofing attempts are fed back into the AI risk intelligence models, enabling dynamic learning and progressive strengthening of fraud detection capabilities against evolving adversarial tactics.
 
-To avoid penalizing genuinely stranded workers, GigGuard AI introduces a **progressive verification model**:
-
-- first-time anomaly → soft risk flag + manual validation window  
-- repeated anomaly → premium tier adjustment  
-- high-confidence fraud pattern → automated claim denial & platform alert  
-
-This ensures financial protection integrity while maintaining rider trust and inclusion.
-
-### 🔄 Continuous Adaptive Learning Loop  
-
-All verified fraud attempts are fed back into the AI risk intelligence engine to continuously improve spoof detection accuracy, enabling the system to evolve alongside emerging adversarial tactics.
-
+---
 ## 📊 Intelligent Analytics Layer  
 
 ### Rider Dashboard  
