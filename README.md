@@ -227,3 +227,7 @@ GigGuard AI can scale into:
 
 🎯 **Long-term Vision:**  
 To establish **India’s first AI-driven gig livelihood resilience infrastructure.**
+
+Youtube link : https://www.youtube.com/watch?v=Jgi2ke6lc5A&t=2s
+
+By Team The Innovators
