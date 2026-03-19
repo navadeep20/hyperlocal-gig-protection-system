@@ -165,6 +165,20 @@ Ensures high adoption among gig workers with limited financial literacy.
 <p align="center">
   <img src="architecture.png" width="800"/>
 </p>
+
+##🏗️ Prototype Technology Architecture
+---
+Gig Worker Mobile Interface — React
+Backend Policy Engine — Spring Boot
+AI Risk Prediction Service — Python ML Models
+Geo-Risk Processing Layer — Spatial Data Logic
+External Data APIs — Weather, AQI, Traffic
+Parametric Trigger Engine — Event Detection Logic
+Automated Claim Processor — Rule-Based Decision System
+Instant Payout Simulation — UPI / Razorpay Sandbox
+Analytics Dashboards — Rider & Insurer Insights
+
+---
 Gig Worker Mobile App (React)
 ↓
 Policy & Premium Engine (Spring Boot)
